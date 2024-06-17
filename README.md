@@ -50,7 +50,7 @@ The current model is YOLO v8 and the weight is saved as _best.pt_.
 
 In _segment_ folder there are 3D segmentation results from the piepline.
 
-_scan1-0725.npy_ is the numpy array file of the result, can be viewed in the _ResultVisualization.ipynb_ file.
+_scan1-0829.npy_ is the numpy array file of the result, can be viewed in the _ResultVisualization.ipynb_ file.
 
 ## Result Overview
 
