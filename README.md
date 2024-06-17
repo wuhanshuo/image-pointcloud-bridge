@@ -55,7 +55,7 @@ _scan1-0725.npy_ is the numpy array file of the result, can be viewed in the _Re
 ## Result Overview
 
 #### Point Cloud 1 - Image 1
-<img src="https://github.com/wuhanshuo/Multi-View-Fusion-3D-Scene/assets/63944310/bfea5c8d-8a19-4ba5-ac0d-1b7eccef7381" height="333"/>
+<img src="https://github.com/wuhanshuo/image-pointcloud-bridge/assets/63944310/c1e1e351-7ccf-40f2-bbe5-d5ecdb5b8d2a" height="333"/>
 <img src="https://github.com/wuhanshuo/Multi-View-Fusion-3D-Scene/assets/63944310/b5c63d5f-0333-4bcc-aeb7-7d413311e129" height="333"/>
 
 #### Point Cloud 1 - Image 4
